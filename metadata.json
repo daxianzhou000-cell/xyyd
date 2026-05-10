@@ -1,0 +1,8 @@
+{
+  "name": "UniSport",
+  "description": "A high-end, youthful fitness social app for college students to track workouts, share achievements, and connect with fellow athletes.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": []
+}
